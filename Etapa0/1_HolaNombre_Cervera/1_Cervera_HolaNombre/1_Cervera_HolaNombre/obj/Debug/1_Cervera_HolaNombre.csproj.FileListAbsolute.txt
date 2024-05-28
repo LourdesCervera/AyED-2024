@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\1_HolaNombre_Cervera\1_Cervera_HolaNombre\1_Cervera_HolaNombre\bin\Debug\1_Cervera_HolaNombre.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\1_HolaNombre_Cervera\1_Cervera_HolaNombre\1_Cervera_HolaNombre\bin\Debug\1_Cervera_HolaNombre.exe
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\1_HolaNombre_Cervera\1_Cervera_HolaNombre\1_Cervera_HolaNombre\bin\Debug\1_Cervera_HolaNombre.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\1_HolaNombre_Cervera\1_Cervera_HolaNombre\1_Cervera_HolaNombre\obj\Debug\1_Cervera_HolaNombre.exe
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\1_HolaNombre_Cervera\1_Cervera_HolaNombre\1_Cervera_HolaNombre\obj\Debug\1_Cervera_HolaNombre.pdb

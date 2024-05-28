@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\0_HolaMundo\0_HolaMundo_Cervera\0_HolaMundo_Cervera\bin\Debug\0_HolaMundo_Cervera.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\0_HolaMundo\0_HolaMundo_Cervera\0_HolaMundo_Cervera\bin\Debug\0_HolaMundo_Cervera.exe
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\0_HolaMundo\0_HolaMundo_Cervera\0_HolaMundo_Cervera\bin\Debug\0_HolaMundo_Cervera.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\0_HolaMundo\0_HolaMundo_Cervera\0_HolaMundo_Cervera\obj\Debug\0_HolaMundo_Cervera.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\0_HolaMundo\0_HolaMundo_Cervera\0_HolaMundo_Cervera\obj\Debug\0_HolaMundo_Cervera.exe
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\0_HolaMundo\0_HolaMundo_Cervera\0_HolaMundo_Cervera\obj\Debug\0_HolaMundo_Cervera.pdb

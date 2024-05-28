@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\2_TestVariable_Cervera\2_Cervera_TestVariable\2_Cervera_TestVariable\bin\Debug\2_Cervera_TestVariable.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\2_TestVariable_Cervera\2_Cervera_TestVariable\2_Cervera_TestVariable\bin\Debug\2_Cervera_TestVariable.exe
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\2_TestVariable_Cervera\2_Cervera_TestVariable\2_Cervera_TestVariable\bin\Debug\2_Cervera_TestVariable.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\2_TestVariable_Cervera\2_Cervera_TestVariable\2_Cervera_TestVariable\obj\Debug\2_Cervera_TestVariable.exe
+C:\Users\Lourdes\OneDrive\Documentos\Etapa_0\2_TestVariable_Cervera\2_Cervera_TestVariable\2_Cervera_TestVariable\obj\Debug\2_Cervera_TestVariable.pdb
