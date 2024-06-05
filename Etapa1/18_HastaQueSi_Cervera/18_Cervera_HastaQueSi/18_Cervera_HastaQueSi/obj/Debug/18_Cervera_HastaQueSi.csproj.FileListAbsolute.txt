@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\18_HastaQueSi_Cervera\18_Cervera_HastaQueSi\18_Cervera_HastaQueSi\bin\Debug\18_Cervera_HastaQueSi.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\18_HastaQueSi_Cervera\18_Cervera_HastaQueSi\18_Cervera_HastaQueSi\bin\Debug\18_Cervera_HastaQueSi.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\18_HastaQueSi_Cervera\18_Cervera_HastaQueSi\18_Cervera_HastaQueSi\bin\Debug\18_Cervera_HastaQueSi.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\18_HastaQueSi_Cervera\18_Cervera_HastaQueSi\18_Cervera_HastaQueSi\obj\Debug\18_Cervera_HastaQueSi.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\18_HastaQueSi_Cervera\18_Cervera_HastaQueSi\18_Cervera_HastaQueSi\obj\Debug\18_Cervera_HastaQueSi.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\18_HastaQueSi_Cervera\18_Cervera_HastaQueSi\18_Cervera_HastaQueSi\obj\Debug\18_Cervera_HastaQueSi.pdb

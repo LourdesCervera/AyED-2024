@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_CuentaRegresiva_Cervera\15_Cervera_CuentaRegresiv\15_Cervera_CuentaRegresiv\bin\Debug\15_Cervera_CuentaRegresiv.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_CuentaRegresiva_Cervera\15_Cervera_CuentaRegresiv\15_Cervera_CuentaRegresiv\bin\Debug\15_Cervera_CuentaRegresiv.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_CuentaRegresiva_Cervera\15_Cervera_CuentaRegresiv\15_Cervera_CuentaRegresiv\bin\Debug\15_Cervera_CuentaRegresiv.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_CuentaRegresiva_Cervera\15_Cervera_CuentaRegresiv\15_Cervera_CuentaRegresiv\obj\Debug\15_Cervera_CuentaRegresiv.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_CuentaRegresiva_Cervera\15_Cervera_CuentaRegresiv\15_Cervera_CuentaRegresiv\obj\Debug\15_Cervera_CuentaRegresiv.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\16_FizzBuzz_Cervera\16_Cervera_FizzBuzz\16_Cervera_FizzBuzz\bin\Debug\16_Cervera_FizzBuzz.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\16_FizzBuzz_Cervera\16_Cervera_FizzBuzz\16_Cervera_FizzBuzz\obj\Debug\16_Cervera_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\16_FizzBuzz_Cervera\16_Cervera_FizzBuzz\16_Cervera_FizzBuzz\bin\Debug\16_Cervera_FizzBuzz.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\16_FizzBuzz_Cervera\16_Cervera_FizzBuzz\16_Cervera_FizzBuzz\bin\Debug\16_Cervera_FizzBuzz.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\16_FizzBuzz_Cervera\16_Cervera_FizzBuzz\16_Cervera_FizzBuzz\obj\Debug\16_Cervera_FizzBuzz.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\16_FizzBuzz_Cervera\16_Cervera_FizzBuzz\16_Cervera_FizzBuzz\obj\Debug\16_Cervera_FizzBuzz.pdb

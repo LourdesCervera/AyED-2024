@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_Cumplidos_Cervera\14_Cervera_Cumplidos\14_Cervera_Cumplidos\bin\Debug\14_Cervera_Cumplidos.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_Cumplidos_Cervera\14_Cervera_Cumplidos\14_Cervera_Cumplidos\bin\Debug\14_Cervera_Cumplidos.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_Cumplidos_Cervera\14_Cervera_Cumplidos\14_Cervera_Cumplidos\bin\Debug\14_Cervera_Cumplidos.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_Cumplidos_Cervera\14_Cervera_Cumplidos\14_Cervera_Cumplidos\obj\Debug\14_Cervera_Cumplidos.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\14_Cumplidos_Cervera\14_Cervera_Cumplidos\14_Cervera_Cumplidos\obj\Debug\14_Cervera_Cumplidos.pdb

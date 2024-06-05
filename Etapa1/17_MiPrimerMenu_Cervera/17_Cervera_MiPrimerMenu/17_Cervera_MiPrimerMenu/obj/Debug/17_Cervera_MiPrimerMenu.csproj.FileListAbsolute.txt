@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\17_MiPrimerMenu_Cervera\17_Cervera_MiPrimerMenu\17_Cervera_MiPrimerMenu\bin\Debug\17_Cervera_MiPrimerMenu.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\17_MiPrimerMenu_Cervera\17_Cervera_MiPrimerMenu\17_Cervera_MiPrimerMenu\bin\Debug\17_Cervera_MiPrimerMenu.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\17_MiPrimerMenu_Cervera\17_Cervera_MiPrimerMenu\17_Cervera_MiPrimerMenu\bin\Debug\17_Cervera_MiPrimerMenu.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\17_MiPrimerMenu_Cervera\17_Cervera_MiPrimerMenu\17_Cervera_MiPrimerMenu\obj\Debug\17_Cervera_MiPrimerMenu.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\17_MiPrimerMenu_Cervera\17_Cervera_MiPrimerMenu\17_Cervera_MiPrimerMenu\obj\Debug\17_Cervera_MiPrimerMenu.pdb
