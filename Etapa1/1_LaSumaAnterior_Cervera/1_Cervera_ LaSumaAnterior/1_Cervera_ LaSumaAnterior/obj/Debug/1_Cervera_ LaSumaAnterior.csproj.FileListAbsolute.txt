@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\1_LaSumaAnterior_Cervera\1_Cervera_ LaSumaAnterior\1_Cervera_ LaSumaAnterior\bin\Debug\1_Cervera_ LaSumaAnterior.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\1_LaSumaAnterior_Cervera\1_Cervera_ LaSumaAnterior\1_Cervera_ LaSumaAnterior\bin\Debug\1_Cervera_ LaSumaAnterior.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\1_LaSumaAnterior_Cervera\1_Cervera_ LaSumaAnterior\1_Cervera_ LaSumaAnterior\bin\Debug\1_Cervera_ LaSumaAnterior.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\1_LaSumaAnterior_Cervera\1_Cervera_ LaSumaAnterior\1_Cervera_ LaSumaAnterior\obj\Debug\1_Cervera_ LaSumaAnterior.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\1_LaSumaAnterior_Cervera\1_Cervera_ LaSumaAnterior\1_Cervera_ LaSumaAnterior\obj\Debug\1_Cervera_ LaSumaAnterior.pdb
