@@ -1,5 +1,0 @@
-C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\2_BienvenidoACiudad_Cervera\2_Cervera_BienvenidoACiu\2_Cervera_BienvenidoACiu\bin\Debug\2_Cervera_BienvenidoACiu.exe.config
-C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\2_BienvenidoACiudad_Cervera\2_Cervera_BienvenidoACiu\2_Cervera_BienvenidoACiu\bin\Debug\2_Cervera_BienvenidoACiu.exe
-C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\2_BienvenidoACiudad_Cervera\2_Cervera_BienvenidoACiu\2_Cervera_BienvenidoACiu\bin\Debug\2_Cervera_BienvenidoACiu.pdb
-C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\2_BienvenidoACiudad_Cervera\2_Cervera_BienvenidoACiu\2_Cervera_BienvenidoACiu\obj\Debug\2_Cervera_BienvenidoACiu.exe
-C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\2_BienvenidoACiudad_Cervera\2_Cervera_BienvenidoACiu\2_Cervera_BienvenidoACiu\obj\Debug\2_Cervera_BienvenidoACiu.pdb
