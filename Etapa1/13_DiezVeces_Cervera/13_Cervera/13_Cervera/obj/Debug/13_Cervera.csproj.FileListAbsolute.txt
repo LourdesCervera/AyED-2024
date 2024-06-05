@@ -1,0 +1,9 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_\13_Cervera\13_Cervera\bin\Debug\13_Cervera.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_\13_Cervera\13_Cervera\bin\Debug\13_Cervera.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_\13_Cervera\13_Cervera\bin\Debug\13_Cervera.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_\13_Cervera\13_Cervera\obj\Debug\13_Cervera.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_\13_Cervera\13_Cervera\obj\Debug\13_Cervera.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_\13_Cervera\13_Cervera\obj\Debug\13_Cervera.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera\13_Cervera\bin\Debug\13_Cervera.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera\13_Cervera\obj\Debug\13_Cervera.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera\13_Cervera\obj\Debug\13_Cervera.pdb

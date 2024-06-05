@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\12_CobrarBeca_Cervera\12_Cervera_CobrarBeca\12_Cervera_CobrarBeca\bin\Debug\12_Cervera_CobrarBeca.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\12_CobrarBeca_Cervera\12_Cervera_CobrarBeca\12_Cervera_CobrarBeca\bin\Debug\12_Cervera_CobrarBeca.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\12_CobrarBeca_Cervera\12_Cervera_CobrarBeca\12_Cervera_CobrarBeca\bin\Debug\12_Cervera_CobrarBeca.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\12_CobrarBeca_Cervera\12_Cervera_CobrarBeca\12_Cervera_CobrarBeca\obj\Debug\12_Cervera_CobrarBeca.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\12_CobrarBeca_Cervera\12_Cervera_CobrarBeca\12_Cervera_CobrarBeca\obj\Debug\12_Cervera_CobrarBeca.pdb

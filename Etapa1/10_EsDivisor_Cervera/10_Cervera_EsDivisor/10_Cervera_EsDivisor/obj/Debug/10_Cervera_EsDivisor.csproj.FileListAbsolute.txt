@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\10_EsDivisor_Cervera\10_Cervera_EsDivisor\10_Cervera_EsDivisor\bin\Debug\10_Cervera_EsDivisor.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\10_EsDivisor_Cervera\10_Cervera_EsDivisor\10_Cervera_EsDivisor\bin\Debug\10_Cervera_EsDivisor.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\10_EsDivisor_Cervera\10_Cervera_EsDivisor\10_Cervera_EsDivisor\bin\Debug\10_Cervera_EsDivisor.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\10_EsDivisor_Cervera\10_Cervera_EsDivisor\10_Cervera_EsDivisor\obj\Debug\10_Cervera_EsDivisor.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\10_EsDivisor_Cervera\10_Cervera_EsDivisor\10_Cervera_EsDivisor\obj\Debug\10_Cervera_EsDivisor.pdb

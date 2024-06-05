@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera_DiezVeces\13_Cervera_DiezVeces\bin\Debug\13_Cervera_DiezVeces.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera_DiezVeces\13_Cervera_DiezVeces\bin\Debug\13_Cervera_DiezVeces.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera_DiezVeces\13_Cervera_DiezVeces\bin\Debug\13_Cervera_DiezVeces.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera_DiezVeces\13_Cervera_DiezVeces\obj\Debug\13_Cervera_DiezVeces.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera_DiezVeces\13_Cervera_DiezVeces\obj\Debug\13_Cervera_DiezVeces.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\13_DiezVeces_Cervera\13_Cervera_DiezVeces\13_Cervera_DiezVeces\obj\Debug\13_Cervera_DiezVeces.pdb

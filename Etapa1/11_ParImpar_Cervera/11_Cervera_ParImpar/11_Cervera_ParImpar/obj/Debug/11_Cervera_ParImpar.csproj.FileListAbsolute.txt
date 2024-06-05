@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\11_ParImpar_Cervera\11_Cervera_ParImpar\11_Cervera_ParImpar\bin\Debug\11_Cervera_ParImpar.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\11_ParImpar_Cervera\11_Cervera_ParImpar\11_Cervera_ParImpar\bin\Debug\11_Cervera_ParImpar.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\11_ParImpar_Cervera\11_Cervera_ParImpar\11_Cervera_ParImpar\bin\Debug\11_Cervera_ParImpar.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\11_ParImpar_Cervera\11_Cervera_ParImpar\11_Cervera_ParImpar\obj\Debug\11_Cervera_ParImpar.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\11_ParImpar_Cervera\11_Cervera_ParImpar\11_Cervera_ParImpar\obj\Debug\11_Cervera_ParImpar.pdb
