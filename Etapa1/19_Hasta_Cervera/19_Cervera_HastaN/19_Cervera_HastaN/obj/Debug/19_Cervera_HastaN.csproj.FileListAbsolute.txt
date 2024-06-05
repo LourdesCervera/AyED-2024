@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\19_Hasta_Cervera\19_Cervera_HastaN\19_Cervera_HastaN\bin\Debug\19_Cervera_HastaN.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\19_Hasta_Cervera\19_Cervera_HastaN\19_Cervera_HastaN\bin\Debug\19_Cervera_HastaN.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\19_Hasta_Cervera\19_Cervera_HastaN\19_Cervera_HastaN\bin\Debug\19_Cervera_HastaN.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\19_Hasta_Cervera\19_Cervera_HastaN\19_Cervera_HastaN\obj\Debug\19_Cervera_HastaN.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\19_Hasta_Cervera\19_Cervera_HastaN\19_Cervera_HastaN\obj\Debug\19_Cervera_HastaN.pdb
