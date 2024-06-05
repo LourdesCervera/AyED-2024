@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\8_EsMayor_Cervera\8_Cervera_EsMayor\8_Cervera_EsMayor\bin\Debug\8_Cervera_EsMayor.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\8_EsMayor_Cervera\8_Cervera_EsMayor\8_Cervera_EsMayor\bin\Debug\8_Cervera_EsMayor.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\8_EsMayor_Cervera\8_Cervera_EsMayor\8_Cervera_EsMayor\bin\Debug\8_Cervera_EsMayor.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\8_EsMayor_Cervera\8_Cervera_EsMayor\8_Cervera_EsMayor\obj\Debug\8_Cervera_EsMayor.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\8_EsMayor_Cervera\8_Cervera_EsMayor\8_Cervera_EsMayor\obj\Debug\8_Cervera_EsMayor.pdb

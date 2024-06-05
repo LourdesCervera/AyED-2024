@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\7_AlReves_Cervera\7_Cervera_AlReves\7_Cervera_AlReves\bin\Debug\7_Cervera_AlReves.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\7_AlReves_Cervera\7_Cervera_AlReves\7_Cervera_AlReves\bin\Debug\7_Cervera_AlReves.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\7_AlReves_Cervera\7_Cervera_AlReves\7_Cervera_AlReves\bin\Debug\7_Cervera_AlReves.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\7_AlReves_Cervera\7_Cervera_AlReves\7_Cervera_AlReves\obj\Debug\7_Cervera_AlReves.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\7_AlReves_Cervera\7_Cervera_AlReves\7_Cervera_AlReves\obj\Debug\7_Cervera_AlReves.pdb

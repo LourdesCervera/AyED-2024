@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\5_ValorDouble_Cervera\5_Cervera_ValorDouble\5_Cervera_ValorDouble\bin\Debug\5_Cervera_ValorDouble.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\5_ValorDouble_Cervera\5_Cervera_ValorDouble\5_Cervera_ValorDouble\bin\Debug\5_Cervera_ValorDouble.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\5_ValorDouble_Cervera\5_Cervera_ValorDouble\5_Cervera_ValorDouble\bin\Debug\5_Cervera_ValorDouble.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\5_ValorDouble_Cervera\5_Cervera_ValorDouble\5_Cervera_ValorDouble\obj\Debug\5_Cervera_ValorDouble.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_1\5_ValorDouble_Cervera\5_Cervera_ValorDouble\5_Cervera_ValorDouble\obj\Debug\5_Cervera_ValorDouble.pdb
