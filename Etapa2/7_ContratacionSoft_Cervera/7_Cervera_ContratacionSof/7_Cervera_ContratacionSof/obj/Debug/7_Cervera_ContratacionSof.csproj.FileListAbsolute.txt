@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\7_ContratacionSoft_Cervera\7_Cervera_ContratacionSof\7_Cervera_ContratacionSof\bin\Debug\7_Cervera_ContratacionSof.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\7_ContratacionSoft_Cervera\7_Cervera_ContratacionSof\7_Cervera_ContratacionSof\bin\Debug\7_Cervera_ContratacionSof.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\7_ContratacionSoft_Cervera\7_Cervera_ContratacionSof\7_Cervera_ContratacionSof\bin\Debug\7_Cervera_ContratacionSof.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\7_ContratacionSoft_Cervera\7_Cervera_ContratacionSof\7_Cervera_ContratacionSof\obj\Debug\7_Cervera_ContratacionSof.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\7_ContratacionSoft_Cervera\7_Cervera_ContratacionSof\7_Cervera_ContratacionSof\obj\Debug\7_Cervera_ContratacionSof.pdb

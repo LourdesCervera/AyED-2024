@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\6_ZEGARPG_Cervera\6_Cervera_ZEGARPG\6_Cervera_ZEGARPG\bin\Debug\6_Cervera_ZEGARPG.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\6_ZEGARPG_Cervera\6_Cervera_ZEGARPG\6_Cervera_ZEGARPG\bin\Debug\6_Cervera_ZEGARPG.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\6_ZEGARPG_Cervera\6_Cervera_ZEGARPG\6_Cervera_ZEGARPG\bin\Debug\6_Cervera_ZEGARPG.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\6_ZEGARPG_Cervera\6_Cervera_ZEGARPG\6_Cervera_ZEGARPG\obj\Debug\6_Cervera_ZEGARPG.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\6_ZEGARPG_Cervera\6_Cervera_ZEGARPG\6_Cervera_ZEGARPG\obj\Debug\6_Cervera_ZEGARPG.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\6_ZEGARPG_Cervera\6_Cervera_ZEGARPG\6_Cervera_ZEGARPG\obj\Debug\6_Cervera_ZEGARPG.pdb
