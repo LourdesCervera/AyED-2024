@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\0_LaCarreraDeHomero_Cervera\0_Cervera_LaCarreraDeHom\0_Cervera_LaCarreraDeHom\bin\Debug\0_Cervera_LaCarreraDeHom.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\0_LaCarreraDeHomero_Cervera\0_Cervera_LaCarreraDeHom\0_Cervera_LaCarreraDeHom\bin\Debug\0_Cervera_LaCarreraDeHom.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\0_LaCarreraDeHomero_Cervera\0_Cervera_LaCarreraDeHom\0_Cervera_LaCarreraDeHom\bin\Debug\0_Cervera_LaCarreraDeHom.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\0_LaCarreraDeHomero_Cervera\0_Cervera_LaCarreraDeHom\0_Cervera_LaCarreraDeHom\obj\Debug\0_Cervera_LaCarreraDeHom.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\0_LaCarreraDeHomero_Cervera\0_Cervera_LaCarreraDeHom\0_Cervera_LaCarreraDeHom\obj\Debug\0_Cervera_LaCarreraDeHom.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\0_LaCarreraDeHomero_Cervera\0_Cervera_LaCarreraDeHom\0_Cervera_LaCarreraDeHom\obj\Debug\0_Cervera_LaCarreraDeHom.csprojResolveAssemblyReference.cache

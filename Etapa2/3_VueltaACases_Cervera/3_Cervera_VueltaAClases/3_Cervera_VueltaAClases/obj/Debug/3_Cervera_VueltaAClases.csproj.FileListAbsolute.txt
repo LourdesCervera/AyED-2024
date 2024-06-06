@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\3_VueltaACases_Cervera\3_Cervera_VueltaAClases\3_Cervera_VueltaAClases\bin\Debug\3_Cervera_VueltaAClases.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\3_VueltaACases_Cervera\3_Cervera_VueltaAClases\3_Cervera_VueltaAClases\bin\Debug\3_Cervera_VueltaAClases.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\3_VueltaACases_Cervera\3_Cervera_VueltaAClases\3_Cervera_VueltaAClases\bin\Debug\3_Cervera_VueltaAClases.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\3_VueltaACases_Cervera\3_Cervera_VueltaAClases\3_Cervera_VueltaAClases\obj\Debug\3_Cervera_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\3_VueltaACases_Cervera\3_Cervera_VueltaAClases\3_Cervera_VueltaAClases\obj\Debug\3_Cervera_VueltaAClases.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\3_VueltaACases_Cervera\3_Cervera_VueltaAClases\3_Cervera_VueltaAClases\obj\Debug\3_Cervera_VueltaAClases.pdb

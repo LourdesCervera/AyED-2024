@@ -1,0 +1,5 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\4_PixelDreams_Cervera\4_Cervera_PixelDreams\4_Cervera_PixelDreams\bin\Debug\4_Cervera_PixelDreams.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\4_PixelDreams_Cervera\4_Cervera_PixelDreams\4_Cervera_PixelDreams\bin\Debug\4_Cervera_PixelDreams.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\4_PixelDreams_Cervera\4_Cervera_PixelDreams\4_Cervera_PixelDreams\bin\Debug\4_Cervera_PixelDreams.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\4_PixelDreams_Cervera\4_Cervera_PixelDreams\4_Cervera_PixelDreams\obj\Debug\4_Cervera_PixelDreams.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\4_PixelDreams_Cervera\4_Cervera_PixelDreams\4_Cervera_PixelDreams\obj\Debug\4_Cervera_PixelDreams.pdb

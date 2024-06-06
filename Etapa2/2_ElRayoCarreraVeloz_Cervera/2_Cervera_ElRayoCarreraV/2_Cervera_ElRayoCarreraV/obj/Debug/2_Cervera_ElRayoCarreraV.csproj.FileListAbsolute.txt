@@ -1,0 +1,6 @@
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\2_ElRayoCarreraVeloz_Cervera\2_Cervera_ElRayoCarreraV\2_Cervera_ElRayoCarreraV\bin\Debug\2_Cervera_ElRayoCarreraV.exe.config
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\2_ElRayoCarreraVeloz_Cervera\2_Cervera_ElRayoCarreraV\2_Cervera_ElRayoCarreraV\bin\Debug\2_Cervera_ElRayoCarreraV.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\2_ElRayoCarreraVeloz_Cervera\2_Cervera_ElRayoCarreraV\2_Cervera_ElRayoCarreraV\bin\Debug\2_Cervera_ElRayoCarreraV.pdb
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\2_ElRayoCarreraVeloz_Cervera\2_Cervera_ElRayoCarreraV\2_Cervera_ElRayoCarreraV\obj\Debug\2_Cervera_ElRayoCarreraV.csprojResolveAssemblyReference.cache
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\2_ElRayoCarreraVeloz_Cervera\2_Cervera_ElRayoCarreraV\2_Cervera_ElRayoCarreraV\obj\Debug\2_Cervera_ElRayoCarreraV.exe
+C:\Users\Lourdes\OneDrive\Documentos\Laboratorio Programacion 4to\Etapa_2\2_ElRayoCarreraVeloz_Cervera\2_Cervera_ElRayoCarreraV\2_Cervera_ElRayoCarreraV\obj\Debug\2_Cervera_ElRayoCarreraV.pdb
