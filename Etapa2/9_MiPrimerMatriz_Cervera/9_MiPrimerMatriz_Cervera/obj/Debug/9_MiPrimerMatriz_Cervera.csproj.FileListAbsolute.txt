@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\etapa2\ejercicio_9\9_MiPrimerMatriz_Cervera\9_MiPrimerMatriz_Cervera\bin\Debug\9_MiPrimerMatriz_Cervera.exe.config
+C:\Users\alumno.ET37\Downloads\etapa2\ejercicio_9\9_MiPrimerMatriz_Cervera\9_MiPrimerMatriz_Cervera\obj\Debug\9_MiPrimerMatriz_Cervera.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\etapa2\ejercicio_9\9_MiPrimerMatriz_Cervera\9_MiPrimerMatriz_Cervera\bin\Debug\9_MiPrimerMatriz_Cervera.exe
+C:\Users\alumno.ET37\Downloads\etapa2\ejercicio_9\9_MiPrimerMatriz_Cervera\9_MiPrimerMatriz_Cervera\bin\Debug\9_MiPrimerMatriz_Cervera.pdb
+C:\Users\alumno.ET37\Downloads\etapa2\ejercicio_9\9_MiPrimerMatriz_Cervera\9_MiPrimerMatriz_Cervera\obj\Debug\9_MiPrimerMatriz_Cervera.exe
+C:\Users\alumno.ET37\Downloads\etapa2\ejercicio_9\9_MiPrimerMatriz_Cervera\9_MiPrimerMatriz_Cervera\obj\Debug\9_MiPrimerMatriz_Cervera.pdb
