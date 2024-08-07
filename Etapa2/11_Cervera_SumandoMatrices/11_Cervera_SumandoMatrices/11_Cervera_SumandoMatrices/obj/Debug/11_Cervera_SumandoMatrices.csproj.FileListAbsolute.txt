@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\etapa2\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\bin\Debug\11_Cervera_SumandoMatrices.exe.config
+C:\Users\alumno.ET37\Downloads\etapa2\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\obj\Debug\11_Cervera_SumandoMatrices.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\etapa2\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\bin\Debug\11_Cervera_SumandoMatrices.exe
+C:\Users\alumno.ET37\Downloads\etapa2\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\bin\Debug\11_Cervera_SumandoMatrices.pdb
+C:\Users\alumno.ET37\Downloads\etapa2\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\obj\Debug\11_Cervera_SumandoMatrices.exe
+C:\Users\alumno.ET37\Downloads\etapa2\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\11_Cervera_SumandoMatrices\obj\Debug\11_Cervera_SumandoMatrices.pdb
