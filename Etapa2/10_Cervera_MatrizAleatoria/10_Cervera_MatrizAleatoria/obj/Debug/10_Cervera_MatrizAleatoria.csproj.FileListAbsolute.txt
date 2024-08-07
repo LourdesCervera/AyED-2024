@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\etapa2\10_Cervera_MatrizAleatoria\10_Cervera_MatrizAleatoria\bin\Debug\10_Cervera_MatrizAleatoria.exe.config
+C:\Users\alumno.ET37\Downloads\etapa2\10_Cervera_MatrizAleatoria\10_Cervera_MatrizAleatoria\bin\Debug\10_Cervera_MatrizAleatoria.exe
+C:\Users\alumno.ET37\Downloads\etapa2\10_Cervera_MatrizAleatoria\10_Cervera_MatrizAleatoria\bin\Debug\10_Cervera_MatrizAleatoria.pdb
+C:\Users\alumno.ET37\Downloads\etapa2\10_Cervera_MatrizAleatoria\10_Cervera_MatrizAleatoria\obj\Debug\10_Cervera_MatrizAleatoria.exe
+C:\Users\alumno.ET37\Downloads\etapa2\10_Cervera_MatrizAleatoria\10_Cervera_MatrizAleatoria\obj\Debug\10_Cervera_MatrizAleatoria.pdb
+C:\Users\alumno.ET37\Downloads\etapa2\10_Cervera_MatrizAleatoria\10_Cervera_MatrizAleatoria\obj\Debug\10_Cervera_MatrizAleatoria.csprojResolveAssemblyReference.cache
