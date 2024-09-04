@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\12_RotarMatriz_Cervera\12_Cervera_RotarMatriz90\12_Cervera_RotarMatriz90\bin\Debug\12_Cervera_RotarMatriz90.exe.config
+C:\Users\alumno.ET37\Downloads\12_RotarMatriz_Cervera\12_Cervera_RotarMatriz90\12_Cervera_RotarMatriz90\bin\Debug\12_Cervera_RotarMatriz90.exe
+C:\Users\alumno.ET37\Downloads\12_RotarMatriz_Cervera\12_Cervera_RotarMatriz90\12_Cervera_RotarMatriz90\bin\Debug\12_Cervera_RotarMatriz90.pdb
+C:\Users\alumno.ET37\Downloads\12_RotarMatriz_Cervera\12_Cervera_RotarMatriz90\12_Cervera_RotarMatriz90\obj\Debug\12_Cervera_RotarMatriz90.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\12_RotarMatriz_Cervera\12_Cervera_RotarMatriz90\12_Cervera_RotarMatriz90\obj\Debug\12_Cervera_RotarMatriz90.exe
+C:\Users\alumno.ET37\Downloads\12_RotarMatriz_Cervera\12_Cervera_RotarMatriz90\12_Cervera_RotarMatriz90\obj\Debug\12_Cervera_RotarMatriz90.pdb
